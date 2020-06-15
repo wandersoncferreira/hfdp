@@ -2,7 +2,8 @@
   "Organizing and implementing the Game described at the end of the chapter as exercise.")
 
 (defprotocol ICharacter
-  (fight [this]))
+  (fight [this])
+  (set-weapon [this w]))
 
 (defmulti weapon :weapon?)
 
@@ -19,7 +20,8 @@
   (println "Cutting with a SWORD!"))
 
 (def Character
-  {:fight (fn [this] (weapon this) this)})
+  {:fight (fn [this] (weapon this) this)
+   :set-weapon (fn [this w] (assoc this :weapon? w))})
 
 (defrecord Queen [weapon?])
 
@@ -47,4 +49,6 @@
   Character)
 
 (-> (->Troll :sword)
+    fight
+    (set-weapon :axe)
     fight)
