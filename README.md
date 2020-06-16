@@ -1,14 +1,19 @@
-# hfdp
+# Heads First Design Patterns
 
-A Clojure library designed to ... well, that part is up to you.
+I am reading and implementing in Clojure all the examples of the book. The idea is to get an
+implementation that satisfies the following requirements:
 
-## Usage
+	- The same behavior as the Java version
+	- As much Clojure idiomatic as possible
+	- Fewer mutable state as possible
+	
 
-FIXME
+If you can come up with a better implementation I will be very happy to merge to this project.
+
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Wanderson Ferreira
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
