@@ -1,7 +1,10 @@
 # Heads First Design Patterns
 
-I am reading and implementing in Clojure all the examples of the book. The idea is to get an
-implementation that satisfies the following requirements:
+I am reading and implementing in Clojure all the examples of the book. You will probably need the
+book in order to follow the examples here, because there are lots of text around each problem to
+explain the design pattern friendlier.
+
+The idea is to get an implementation that satisfies the following requirements:
 
 	- The same behavior as the Java version
 	- As much Clojure idiomatic as possible
