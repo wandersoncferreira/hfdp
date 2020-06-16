@@ -30,7 +30,7 @@
   [_]
   (println "<< silence >."))
 
-;;; this would be concrete implementations in the base class.
+;;; this is the concrete implementation of the base class.
 (def Duck
   {:performQuack (fn [this] (quack this) this)
    :performFly (fn [this] (fly this) this)})
