@@ -1,4 +1,4 @@
-# Heads First Design Patterns
+# Head First Design Patterns
 
 I am reading and implementing in Clojure all the examples of the book. You will probably need the
 book in order to follow the examples here, because there are lots of text around each problem to
