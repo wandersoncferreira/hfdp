@@ -7,11 +7,16 @@ explain the design pattern friendlier.
 The idea is to get an implementation that satisfies the following requirements:
 
 	- The same behavior as the Java version
-	- As much Clojure idiomatic as possible
+	- As much Clojure idiomatic as possible but still using the notion of 'objects'
 	- Fewer mutable state as possible
 	
 
 If you can come up with a better implementation I will be very happy to merge to this project.
+
+If I would implement the same "behavior" using only functions or let's say a more data-driven
+strategy, the solutions would be different. Maybe I am trying to think like a Java programmer with
+the available clojure tools.
+
 
 
 ## License
