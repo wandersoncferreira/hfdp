@@ -21,17 +21,17 @@ book.
 
 ## Roadmap
 
-[x] Strategy Pattern
-[x] Observer Pattern
-[x] Decorator Pattern
-[x] Factory Pattern
-[ ] Singleton Pattern
-[ ] Command Pattern
-[ ] Facade and Adapter Pattern
-[ ] Template Pattern
-[ ] Iterator and Composite Pattern
-[ ] State Pattern
-[ ] Proxy Pattern
+- [x] Strategy Pattern
+- [x] Observer Pattern
+- [x] Decorator Pattern
+- [x] Factory Pattern
+- [ ] Singleton Pattern
+- [ ] Command Pattern
+- [ ] Facade and Adapter Pattern
+- [ ] Template Pattern
+- [ ] Iterator and Composite Pattern
+- [ ] State Pattern
+- [ ] Proxy Pattern
 
 ## License
 
