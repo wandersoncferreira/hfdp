@@ -15,9 +15,23 @@ If you can come up with a better implementation I will be very happy to merge to
 
 If I would implement the same "behavior" using only functions or let's say a more data-driven
 strategy, the solutions would be different. Maybe I am trying to think like a Java programmer with
-the available clojure tools.
+the available clojure tools. Or to be fair, I want to do a similar implementation as offered in the
+book.
 
 
+## Roadmap
+
+[x] Strategy Pattern
+[x] Observer Pattern
+[x] Decorator Pattern
+[x] Factory Pattern
+[ ] Singleton Pattern
+[ ] Command Pattern
+[ ] Facade and Adapter Pattern
+[ ] Template Pattern
+[ ] Iterator and Composite Pattern
+[ ] State Pattern
+[ ] Proxy Pattern
 
 ## License
 
