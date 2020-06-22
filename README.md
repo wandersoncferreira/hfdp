@@ -28,7 +28,7 @@ book.
 - [x] Singleton Pattern
 - [x] Command Pattern
 - [x] Adapter Pattern
-- [ ] Facade Pattern
+- [x] Facade Pattern
 - [ ] Template Pattern
 - [ ] Iterator and Composite Pattern
 - [ ] State Pattern
