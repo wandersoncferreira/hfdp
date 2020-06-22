@@ -25,7 +25,7 @@ book.
 - [x] Observer Pattern
 - [x] Decorator Pattern
 - [x] Factory Pattern
-- [ ] Singleton Pattern
+- [x] Singleton Pattern
 - [ ] Command Pattern
 - [ ] Facade and Adapter Pattern
 - [ ] Template Pattern
