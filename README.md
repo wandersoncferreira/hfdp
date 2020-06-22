@@ -29,7 +29,7 @@ book.
 - [x] Command Pattern
 - [x] Adapter Pattern
 - [x] Facade Pattern
-- [ ] Template Pattern
+- [x] Template Pattern
 - [ ] Iterator and Composite Pattern
 - [ ] State Pattern
 - [ ] Proxy Pattern
