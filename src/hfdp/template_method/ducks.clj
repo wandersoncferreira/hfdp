@@ -1,9 +1,6 @@
 (ns hfdp.template-method.ducks
   (:import [java.lang Comparable]))
 
-(reify Comparable
-  (compareTo [& args]))
-
 (deftype Duck [name weight]
   Comparable
   (compareTo [this other] (cond
