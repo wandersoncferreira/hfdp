@@ -30,7 +30,7 @@ book.
 - [x] Adapter Pattern
 - [x] Facade Pattern
 - [x] Template Pattern
-- [ ] Iterator and Composite Pattern
+- [x] Iterator Pattern
 - [ ] State Pattern
 - [ ] Proxy Pattern
 
